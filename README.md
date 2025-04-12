@@ -6,7 +6,7 @@ This submission includes the implementation for the Wrangler enhancement assignm
 
 ### 📦 How to Access
 
-Please download and unzip the file `wrangler-enhancement.zip` located in the root of this repository.
+Please download and unzip the file `ass.zip` located in the root of this repository.
 
 ### 📘 What's Included
 
